@@ -1,6 +1,6 @@
 # Hi, I'm Kafi Bintang Setia Aji 👋
 
-I am a **Systems & Backend Engineer** passionate about building robust, scalable architectures. I bridge the gap between high-level backend systems and low-level robotics/performance-critical applications.
+I am a **Systems & Backend Engineer** passionate about building robust, scalable architectures. I am a lifelong learner who thrives on discovering new technologies, experimenting with emerging stacks, and uncovering the "why" behind the code.
 
 ---
 
@@ -10,16 +10,7 @@ I am a **Systems & Backend Engineer** passionate about building robust, scalable
 | :--- | :--- |
 | **Backend & Systems** | System Design, Distributed Systems, Data Science |
 | **Robotics** | ROS2, MoveIt, Nav2, PCL |
-| **GameDev** | Unity, C#, Engine Architecture |
-| **Data Science** | Topic modelling, sentiment analysis |
-
----
-
-### 📈 What I'm Focused On
-*   **System Architecture:** Designing efficient, low-latency systems.
-*   **Robotics Integration:** Bridging real-time robotics stacks with cloud-based backend services.
-*   **Data & Performance:** Applying data science methodologies to optimize system performance.
-
+| **GameDev** | Unity, C# |
 ---
 
 ### 🚀 Recent Projects
@@ -29,8 +20,5 @@ I am a **Systems & Backend Engineer** passionate about building robust, scalable
 ---
 
 ### 📬 Let's Connect
-*   **LinkedIn:** [Link to your profile]
-*   **Portfolio/Website:** [Link to your site]
-*   **Email:** [Your contact email]
-
+*   **Email:** [kafibintangsetiaaji@gmail.com]
 ---

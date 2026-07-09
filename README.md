@@ -19,7 +19,7 @@ going to ranked into categories of (`Proficient`, `Fluent`, `Applied`) below:
 | **Backend**                       | Fluent (`Node.js`, `NestJS`, `TypeScript`, `JavaScript` )  Applied (`Django`, `Flask`)               |
 | **Databases**                        | Fluent (`PostgreSQL`, `MySQL`, `MongoDB` )                                                            |
 | **Infra & DevOps**                   | Fluent (`Docker`, `Linux`, `Git`, `CMake`, `UnityDevOps` )                                            |
-| **Robotics**                         | Fluent/Applied (`ROS2`, `MoveIt`, `Nav2`, `PCL`, `CAD` `FreeCAD`                                      |
+| **Robotics**                         | Fluent/Applied (`ROS2`, `MoveIt`, `Nav2`, `PCL`, `CAD(FreeCAD)`)                                      |
 | **GameDev**                          | Fluent (`Unity`, `Cinemachine`, `DI (Reflex)`, `FSM`, `Behavior Tree`, `UI/UX System` )             |
 | **AI & ML**                          | Applied (`PyTorch`, `TensorFlow`, `Hugging Face`, `scikit-learn`, `OpenCV`, `YOLO`, `NLTK`, `Spacy` ) |
 | **Data Engineering**                 | Applied (`Apache Spark`, `Kafka`, `Cassandra`, `Apache Zeppelin`, `Maven` )                           |
@@ -28,3 +28,5 @@ going to ranked into categories of (`Proficient`, `Fluent`, `Applied`) below:
 
 Might be a bit rusty on some of this. Need a recap to remember this old-long of a forgotten project :P.
 
+### Current Project
+I'm currently working on some **System Design** backend project, including but not limited to Core Ledger, Notification Engine, E-Commerce Storefront & Catalog API, High-Concurrency Concert & Seat Booking Engine and so on. I want to tackle some of the bussiness challenges beyond CRUD, applying distributed systems principles to ensure the architecture remains fast, reliable, and consistent under heavy traffic.

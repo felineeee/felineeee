@@ -26,5 +26,5 @@ going to ranked into categories of (`Proficient`, `Fluent`, `Applied`) below:
 | **Geospatial**                       | Applied (`QGIS`)                                                                                               |
 | **Data Analysis**                    | Applied(`Pandas`, `NumPy`, `Matplotlib`, `Seaborn` )                                                 |
 
-But I might be a bit rusty on some of this. Need a quick recap to even remember some of forgotten project :P.
+Might be a bit rusty on some of this. Need a recap to remember this long-old of a forgotten project :P.
 

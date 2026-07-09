@@ -15,16 +15,16 @@ going to ranked into categories of (`Proficient`, `Fluent`, `Applied`) below:
 
 | Category                             | Stack/Concepts                                                                                       |
 | ------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| **Programming and Markup Languages** | Fluent(`C#`, `C++`, `TypeScript`, `JavaScript`, `Latex`, `Shell`)  Applied(`Java`, `Python`)       |
-| **Backend**                       | Fluent(`Node.js`, `NestJS`, `TypeScript`, `JavaScript` )  Applied(`Django`, `Flask`)               |
-| **Databases**                        | Fluent(`PostgreSQL`, `MySQL`, `MongoDB` )                                                            |
-| **Infra & DevOps**                   | Fluent(`Docker`, `Linux`, `Git`, `CMake`, `UnityDevOps` )                                            |
-| **Robotics**                         | Fluent/Applied(`ROS2`, `MoveIt`, `Nav2`, `PCL`, `CAD` `FreeCAD`                                      |
-| **GameDev**                          | Fluent(`Unity`, `Cinemachine`, `DI (Reflex)`, `FSM`, `Behavior Tree`, `UI/UX System` )             |
-| **AI & ML**                          | Applied(`PyTorch`, `TensorFlow`, `Hugging Face`, `scikit-learn`, `OpenCV`, `YOLO`, `NLTK`, `Spacy` ) |
-| **Data Engineering**                 | Applied(`Apache Spark`, `Kafka`, `Cassandra`, `Apache Zeppelin`, `Maven` )                           |
+| **Programming and Markup Languages** | Fluent (`C#`, `C++`, `TypeScript`, `JavaScript`, `Latex`, `Shell`)  Applied (`Java`, `Python`)       |
+| **Backend**                       | Fluent (`Node.js`, `NestJS`, `TypeScript`, `JavaScript` )  Applied (`Django`, `Flask`)               |
+| **Databases**                        | Fluent (`PostgreSQL`, `MySQL`, `MongoDB` )                                                            |
+| **Infra & DevOps**                   | Fluent (`Docker`, `Linux`, `Git`, `CMake`, `UnityDevOps` )                                            |
+| **Robotics**                         | Fluent/Applied (`ROS2`, `MoveIt`, `Nav2`, `PCL`, `CAD` `FreeCAD`                                      |
+| **GameDev**                          | Fluent (`Unity`, `Cinemachine`, `DI (Reflex)`, `FSM`, `Behavior Tree`, `UI/UX System` )             |
+| **AI & ML**                          | Applied (`PyTorch`, `TensorFlow`, `Hugging Face`, `scikit-learn`, `OpenCV`, `YOLO`, `NLTK`, `Spacy` ) |
+| **Data Engineering**                 | Applied (`Apache Spark`, `Kafka`, `Cassandra`, `Apache Zeppelin`, `Maven` )                           |
 | **Geospatial**                       | Applied (`QGIS`)                                                                                               |
-| **Data Analysis**                    | Applied(`Pandas`, `NumPy`, `Matplotlib`, `Seaborn` )                                                 |
+| **Data Analysis**                    | Applied (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn` )                                                 |
 
-Might be a bit rusty on some of this. Need a recap to remember this long-old of a forgotten project :P.
+Might be a bit rusty on some of this. Need a recap to remember this old-long of a forgotten project :P.
 

@@ -1,7 +1,6 @@
 # Hi, I'm Kafi Bintang Setia Aji
 
-I am a lifelong learner who thrives on discovering new technologies,
-experimenting with emerging stacks, and uncovering the "why" behind the code.
+I like to screwing around with the tech.
 
 My most notable work is on **System & Backend Engineer**. I'm passionate about
 working on a new project. Letting my curiosity takes control. Starting from

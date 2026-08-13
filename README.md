@@ -27,7 +27,3 @@ going to ranked into categories of (`Proficient`, `Fluent`, `Applied`) below:
 | **Geospatial**                       | Applied (`QGIS`)                                                                                               |
 | **Data Analysis**                    | Applied (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn` )                                                 |
 
-Might be a bit rusty on some of this. Need a recap to remember this old-long of a forgotten project :P.
-
-### Current Project
-I'm currently working on some **System Design** backend project, including but not limited to Core Ledger, Notification Engine, E-Commerce Storefront & Catalog API, High-Concurrency Concert & Seat Booking Engine and so on. I want to tackle some of the bussiness challenges beyond CRUD, applying distributed systems principles to ensure the architecture remains fast, reliable, and consistent under heavy traffic. Those project were my exploratory and educational take on such topic.

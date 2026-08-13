@@ -9,7 +9,7 @@ Science**, **Cyber Security**, **Game Development**, **Robotics**. This enables
 me to have good range knowledge on the of the topics, letting me to be a good
 generalist and ready to improve specialist.
 
-You can see my full CV here: (https://drive.google.com/file/d/1GJ0PTL-rxG3C7jNlk7g_yQr09HKvPPBk/view?usp=sharing)
+You can see my full CV here: (https://canva.link/6gwehl3zrjlpgr1) 
 
 On top of that, I've learned a lot of software, platform and tools. In which im
 going to ranked into categories of (`Proficient`, `Fluent`, `Applied`) below:
